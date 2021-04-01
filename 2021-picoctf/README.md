@@ -6,23 +6,23 @@ I focused on the cryptography questions, since that's my "specialty" these days:
 
 ## Challenges
 
-| Challenge               | Category     | Points | Writeup |
-| ----------------------- | ------------ | ------ | ------- |
-| Mod 26                  | Cryptography | 10     | TODO    |
-| Mind your Ps and Qs     | Cryptography | 20     | TODO    |
-| Easy Peasy              | Cryptography | 40     | TODO    |
-| Ancient History (?)     | ?            | ?      | TODO    |
-| New Caesar              | Cryptography | 60     | TODO    |
-| Mini RSA                | Cryptography | 70     | TODO    |
-| Dachshund Attacks       | Cryptography | 80     | TODO    |
-| No Padding, No Problem  | Cryptography | 90     | TODO    |
-| Pixelated               | Cryptography | 100    | TODO    |
-| Play Nice               | Cryptography | 110    | TODO    |
-| Double DES              | Cryptography | 120    | TODO    |
-| Compress and Attack     | Cryptography | 130    | TODO    |
-| Scrambled: RSA          | Cryptography | 140    | TODO    |
-| It's Not My Fault 1     | Cryptography | 300    | TODO    |
-| It is my Birthday 2 (?) | Cryptography | ?      | TODO    |
-| New Vignere [sic]       | Cryptography | 300    | TODO    |
-| It's Not My Fault 2     | Cryptography | ?      | TODO    |
-| Clouds                  | Cryptography | 500    | TODO    |
+| Challenge               | Category     | Points | Writeup                        |
+| ----------------------- | ------------ | ------ | ------------------------------ |
+| Mod 26                  | Cryptography | 10     | [writeup](mod-26)              |
+| Mind your Ps and Qs     | Cryptography | 20     | [writeup](mind-your-ps-and-qs) |
+| Easy Peasy              | Cryptography | 40     | [writeup](easy-peasy)          |
+| Ancient History (?)     | ?            | ?      | TODO                           |
+| New Caesar              | Cryptography | 60     | TODO                           |
+| Mini RSA                | Cryptography | 70     | TODO                           |
+| Dachshund Attacks       | Cryptography | 80     | TODO                           |
+| No Padding, No Problem  | Cryptography | 90     | TODO                           |
+| Pixelated               | Cryptography | 100    | TODO                           |
+| Play Nice               | Cryptography | 110    | TODO                           |
+| Double DES              | Cryptography | 120    | TODO                           |
+| Compress and Attack     | Cryptography | 130    | TODO                           |
+| Scrambled: RSA          | Cryptography | 140    | TODO                           |
+| It's Not My Fault 1     | Cryptography | 300    | TODO                           |
+| It is my Birthday 2 (?) | Cryptography | ?      | TODO                           |
+| New Vignere [sic]       | Cryptography | 300    | TODO                           |
+| It's Not My Fault 2     | Cryptography | ?      | TODO                           |
+| Clouds                  | Cryptography | 500    | TODO                           |
